@@ -3,6 +3,7 @@
 This is a series of Virtual projects using python.
 
     Jarvis
+• This is a voice enabled desktop assistant made using pyttsx3 and SpeechRecognition
       • WishMe command
       • Opening tabs in google
       • Sending an email
