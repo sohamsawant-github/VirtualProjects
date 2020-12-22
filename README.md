@@ -15,7 +15,7 @@ Jarvis
 • This is a voice enabled desktop assistant made using pyttsx3 and SpeechRecognition
      
      
-• Functions
+     • Functions
       • WishMe command
       • Opening tabs in google
       • Sending an email
