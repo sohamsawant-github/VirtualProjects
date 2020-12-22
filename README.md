@@ -15,7 +15,7 @@ Jarvis
 • This is a voice enabled desktop assistant made python
      
      
-    → Functions
+    → Functions:
       • WishMe command
       • Opening tabs in google
       • Sending an email
@@ -25,7 +25,7 @@ Jarvis
       • Exiting the program
       
 
-    → Package installation
+    → Package installation:
       • pip install pyttsx3
       • pip install SpeechRecognition as sr
       • pip install wikipedia
